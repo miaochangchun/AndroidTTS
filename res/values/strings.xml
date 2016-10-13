@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hcicloudttsexample">HciCloud TTS Example Begin!\n</string>
+    <string name="app_name">AndroidHciCloudTtsExample</string>
+
+</resources>
